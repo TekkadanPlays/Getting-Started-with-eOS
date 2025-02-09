@@ -23,7 +23,7 @@ Be prepared to do some configuring!
 
 # Coping with i3 (if it's your first time)
 
-The default ```$mod``` key is the /⌘ key. You can launch [rofi](https://github.com/davatorium/rofi) with ```$mod + d``` to launch applications.
+The default ```$mod``` key is the //⌘ key. You can launch [rofi](https://github.com/davatorium/rofi) with ```$mod + d``` to launch applications.
 
 > NOTE: ```$mod + enter``` will quickly open a terminal.
 
