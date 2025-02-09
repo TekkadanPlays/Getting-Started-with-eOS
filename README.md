@@ -27,7 +27,7 @@ The default ```$mod``` key is the /⌘ key. You can launch [rofi](https://git
 
 > NOTE: ```$mod + enter``` will quickly open a terminal.
 
-Start by launching Thunar with dmenu: ```$mod + d``` + search ```thunar``` + press ```enter``` to launch.
+Start by launching Thunar with rofi: ```$mod + d``` + search ```thunar``` + press ```enter``` to launch.
 
 Navigate to ```~/.config/i3/``` with thunar. Here you can replace ```config.txt``` with my provided [config.txt](https://github.com/TekkadanPlays/Getting-Started-with-eOS/blob/cd9552227b6f4c5f66b166faa395dabeb05afb11/config.txt) file.
 
