@@ -88,3 +88,5 @@ paru -S lutris wine
 ```
 
 For max refresh rate (on Nvidia cards) use the ```Nvidia X Server Settings``` application. (it comes preinstalled)
+
+As of ~2025, you will also need to run ```nvidia -o --32``` and reboot.
