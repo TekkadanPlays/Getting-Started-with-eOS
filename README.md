@@ -1,31 +1,58 @@
-# Intro
+# Getting started with [endeavourOS](https://endeavouros.com/) and [i3-wm](https://i3wm.org/)
 
 This guide is my attempt to share a distributable and recyclable setup without compromising the integrity of new users who might want to figure it out on their own, or do things their own way.
 
+eOS is a lightweight distro that ships with a minimum amount of pre-installed apps.
+
 A lot of my application choices are designed to work optimally with the i3 environment, enabling FULL user authority over just about everything, with a minimal and completely tunable UI/UX.
+
+Choose i3-wm from the installer when prompted to choose a desktop environment, and be prepared to do some configuring.
 
 If it seems too complicated for you, *it probably is!*
 
-<br>
 <div align="right">
  <a href="">
     <img src="https://github.com/TekkadanPlays/eOS-Dotfiles/blob/main/1706459290178581.png">
   </a>
 </div>
-  
-# Getting Started with [endeavourOS](https://endeavouros.com/) and [i3-wm](https://i3wm.org/)
-
-eOS is a lightweight distro that ships with a minimum amount of pre-installed apps.
-
-Be sure to choose i3-wm from the installer when prompted to choose a desktop environment.
-
-Be prepared to do some configuring!
 
 # Coping with i3 (if it's your first time)
 
-The default ```$mod``` key is the  /  / ⌘ key. You can launch [rofi](https://github.com/davatorium/rofi) with ```$mod + d``` to launch applications.
+The default ```$mod``` key in eOS is the  /  / ⌘ key. You can launch [rofi](https://github.com/davatorium/rofi) with ```$mod + d``` to launch applications.
 
-> NOTE: ```$mod + enter``` will quickly open a terminal.
+Some brief mentions:
+
+- ```$mod + enter``` will quickly open a terminal.
+
+- ```$mod + shift + spacebar``` will snap between tiled and windowed mode. This is especially useful.
+
+- ```$mod + shift + [0-9]``` will quickly move applications between virtual desktops.
+
+You can USE YOUR MOUSE in conjunction with ```$mod``` + ```RMB```! 
+
+> NOTE: your mouse hover determines the *active window!*
+
+<br>
+
+**Keys to use with ```$mod```:**
+
+<br>
+<div align="center">
+ <a href="">
+    <img src="https://i3wm.org/docs/4.0/keyboard-layer1.png">
+  </a>
+</div>
+<br>
+
+**Keys to use with ```$mod + shift```:**
+
+<br>
+<div align="center">
+ <a href="">
+    <img src="https://i3wm.org/docs/4.0/keyboard-layer2.png">
+  </a>
+</div>
+<br>
 
 Start by launching Thunar with rofi: ```$mod + d``` + search ```thunar``` + press ```enter``` to launch.
 
@@ -55,7 +82,7 @@ paru -S redshift terminus-font neofetch
 
 > NOTE: add ```neofetch``` to end of ```~/.bashrc``` to start it each time a terminal is launched!
 
-You can also override ```~/.config/neofetch/``` with a [custom theme](https://github.com/chick2d/neofetch-themes). I use [papirus](https://github.com/chick2d/neofetch-themes/blob/main/normal/papirus.conf)!
+You can also overwrite ```~/.config/neofetch/``` with a [custom theme](https://github.com/chick2d/neofetch-themes). I use [papirus](https://github.com/chick2d/neofetch-themes/blob/main/normal/papirus.conf)!
 
 - install [ranger](https://github.com/ranger/ranger) and [qutebrowser](https://qutebrowser.org/): 
 
