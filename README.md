@@ -79,3 +79,10 @@ paru -S cmatrix
     <img src="https://github.com/abishekvashok/cmatrix/blob/master/data/img/capture_orig.gif">
   </a>
 </div>
+
+For gaming:
+```
+paru -S lutris wine
+```
+
+For max refresh rate (on Nvidia cards) use the ```Nvidia X Server Settings``` application. (it comes preinstalled)
