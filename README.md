@@ -1,8 +1,8 @@
 # Intro
 
-This guide is my attempt to share a distributable and recyclable setup without compromising the integrity of new users who might want to figure it out on their own, without copying my dotfiles.
+This guide is my attempt to share a distributable and recyclable setup without compromising the integrity of new users who might want to figure it out on their own, or do things their own way.
 
-A lot of my application choices are designed to work optimally with the i3 environment, enabling FULL user authority over just about everything.
+A lot of my application choices are designed to work optimally with the i3 environment, enabling FULL user authority over just about everything, with a minimal and completely tunable UI/UX.
 
 If it seems too complicated for you, it probably is.
 
@@ -55,7 +55,7 @@ paru -S redshift terminus-font neofetch
 
 > NOTE: add ```neofetch``` to end of ```~/.bashrc``` to start it each time a terminal is launched!
 
-Also, go ahead and override ```~/.config/neofetch/``` with a custom theme. I use [papirus](https://github.com/chick2d/neofetch-themes/blob/main/normal/papirus.conf)!
+You can also override ```~/.config/neofetch/``` with a [custom theme](https://github.com/chick2d/neofetch-themes). I use [papirus](https://github.com/chick2d/neofetch-themes/blob/main/normal/papirus.conf)!
 
 - install [ranger](https://github.com/ranger/ranger) and [qutebrowser](https://qutebrowser.org/): 
 
@@ -64,10 +64,10 @@ paru -S ranger qutebrowser
 ```
 *Goodbye, thunar!*
 
-- A few other small apps I use: 
+- A few other small apps I use: [zim-wiki](https://zim-wiki.org/), [flameshot](https://flameshot.org/), [galculator](http://galculator.mnim.org/)
 
 ```
-paru -S zim flameshot drawing galculator
+paru -S zim flameshot galculator
 ```
 
 I also particularly enjoy [cmatrix](https://github.com/abishekvashok/cmatrix): 
