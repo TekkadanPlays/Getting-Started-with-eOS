@@ -55,6 +55,8 @@ paru -S redshift terminus-font neofetch
 
 > NOTE: add ```neofetch``` to end of ```~/.bashrc``` to start it each time a terminal is launched!
 
+Also, go ahead and override ```~/.config/neofetch/``` with a custom theme. I use [papirus](https://github.com/chick2d/neofetch-themes/blob/main/normal/papirus.conf)!
+
 - install [ranger](https://github.com/ranger/ranger) and [qutebrowser](https://qutebrowser.org/): 
 
 ```
@@ -62,10 +64,10 @@ paru -S ranger qutebrowser
 ```
 *Goodbye, thunar!*
 
-A few other small apps I use: 
+- A few other small apps I use: 
 
 ```
-paru -S zim flameshot picom drawing galculator
+paru -S zim flameshot drawing galculator
 ```
 
 I also particularly enjoy [cmatrix](https://github.com/abishekvashok/cmatrix): 
