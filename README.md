@@ -20,4 +20,5 @@ Table of Contents
 
 1. [Getting started](https://github.com/TekkadanPlays/eOS-ftw/wiki)
    - [Embracing i3](https://github.com/TekkadanPlays/eOS-ftw/wiki/Embracing-i3)
+   - [Initialization](https://github.com/TekkadanPlays/eOS-ftw/wiki/Initialization)
   
