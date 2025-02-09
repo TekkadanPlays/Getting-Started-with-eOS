@@ -12,7 +12,7 @@ If it seems too complicated for you, *it probably is!*
 
 <div align="right">
  <a href="">
-    <img src="https://github.com/TekkadanPlays/eOS-Dotfiles/blob/main/1706459290178581.png">
+    <img src="https://github.com/TekkadanPlays/Getting-Started-with-eOS/blob/672861f9a3914f75330e2f9821926056d4f9c213/1706459290178581.png">
   </a>
 </div>
 
