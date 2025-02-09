@@ -1,8 +1,14 @@
+<div align="center">
  <a href="">
     <img src="https://github.com/TekkadanPlays/eOS-Dotfiles/blob/main/1706459290178581.png">
   </a>
+</div>
   
-# eOS-Dotfiles 
+# Getting Starting with eOS (Arch Linux) and i3-wm
+
+[endeavourOS](https://endeavouros.com/) is lightweight and ships with a minimum amount of preinstalled apps.
+
+# First steps
 
 install [paru](https://github.com/Morganamilo/paru) instead of pacman: ```yay -S paru```
 
