@@ -4,7 +4,7 @@ This guide is my attempt to share a distributable and recyclable setup without c
 
 A lot of my application choices are designed to work optimally with the i3 environment, enabling FULL user authority over just about everything, with a minimal and completely tunable UI/UX.
 
-If it seems too complicated for you, it probably is.
+If it seems too complicated for you, *it probably is!*
 
 <br>
 <div align="right">
