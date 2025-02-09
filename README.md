@@ -16,7 +16,7 @@ If it seems too complicated for you, *it probably is!*
   </a>
 </div>
 
-Table of Contents
+Table of Contents:
 
 1. [Getting started](https://github.com/TekkadanPlays/eOS-ftw/wiki)
    - [Embracing i3](https://github.com/TekkadanPlays/eOS-ftw/wiki/Embracing-i3)
