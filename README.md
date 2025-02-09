@@ -16,7 +16,7 @@ If it seems too complicated for you, *it probably is!*
   </a>
 </div>
 
-# Coping with i3 (if it's your first time)
+# Embracing i3 (if it's your first time)
 
 The default ```$mod``` key in eOS is the  /  / ⌘ key. You can launch [rofi](https://github.com/davatorium/rofi) with ```$mod + d``` to launch applications.
 
